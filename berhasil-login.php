@@ -142,7 +142,7 @@
               <img class="image" src="img/p-1.jpg" alt="">
               <div class="content">
                 <img src="img/s-1.png" alt="">
-                  <h3>tasty burger</h3>
+                  <h3>Tasty Burger</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda inventore neque amet ipsa tenetur voluptates aperiam tempore libero labore aut.</p>
               </div>
             </div>
@@ -150,7 +150,7 @@
               <img class="image" src="img/pizza.jpg" alt="">
               <div class="content">
                   <img src="img/s-2.png" alt="">
-                  <h3>tasty burger</h3>
+                  <h3>Tasty Pizza</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda inventore neque amet ipsa tenetur voluptates aperiam tempore libero labore aut.</p>
               </div>
             </div>
@@ -158,7 +158,7 @@
               <img class="image" src="img/p-6.jpg" alt="">
               <div class="content">
                   <img src="img/s-3.png" alt="">
-                  <h3>tasty burger</h3>
+                  <h3>Tasty Ice</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda inventore neque amet ipsa tenetur voluptates aperiam tempore libero labore aut.</p>
               </div>
             </div>
@@ -166,7 +166,7 @@
               <img class="image" src="img/p-5.jpg" alt="">
               <div class="content">
                   <img src="img/s-4.png" alt="">
-                  <h3>tasty burger</h3>
+                  <h3>Tasty Drink</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda inventore neque amet ipsa tenetur voluptates aperiam tempore libero labore aut.</p>
               </div>
             </div>
@@ -174,7 +174,7 @@
               <img class="image" src="img/p-2.jpg" alt="">
               <div class="content">
                   <img src="img/s-5.png" alt="">
-                  <h3>tasty burger</h3>
+                  <h3>Tasty Cake</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda inventore neque amet ipsa tenetur voluptates aperiam tempore libero labore aut.</p>
               </div>
             </div>
@@ -182,7 +182,7 @@
               <img class="image" src="img/kopi.jpg" alt="">
               <div class="content">
                   <img src="img/s-6.png" alt="">
-                  <h3>tasty burger</h3>
+                  <h3>Tasty Coffee</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda inventore neque amet ipsa tenetur voluptates aperiam tempore libero labore aut.</p>
               </div>
             </div>
