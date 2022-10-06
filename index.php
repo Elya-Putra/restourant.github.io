@@ -24,10 +24,10 @@
 				<!--Form login -->
 				<form action="" method="post">
 					<div class="form-group">
-						<input type="text" name="user" placeholder="Masukan Username" class="input-control">
+						<input type="text" name="user" placeholder="Username" class="input-control">
 					</div>
 					<div class="form-group">
-						<input type="password" name="pass" placeholder="Masukan Password" class="input-control">
+						<input type="password" name="pass" placeholder="Password" class="input-control">
 					</div>
 					<input type="submit" name="submit" value="Login" class="btn">
 					<div class="register">
